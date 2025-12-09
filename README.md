@@ -71,5 +71,6 @@ Exécutez les scripts dans cet ordre précis :
 
 ## 📝 Auteur
 
+**Edib Saoud** - 2ème année BTS SIO SISR
 Projet réalisé dans le cadre d'un TP d'administration système et réseau.
 Scripts PowerShell développés et validés sous Windows Server 2022.
